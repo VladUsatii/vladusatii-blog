@@ -1,6 +1,4 @@
 layout: page
-title: "Vlad Usatii's website"
-permalink: /
 
 # Vlad Usatii's website
 
