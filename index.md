@@ -1,5 +1,3 @@
-layout: page
-
 # Vlad Usatii's website
 
 ---
